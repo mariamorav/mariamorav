@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Maria 👋
+
+I'm fullstack developer. I work at [Cuemby](https://cuemby.com/) 🐰 as Software Engineer.
+I love coding and spend my time learning new things 📚 
+
+Currently, I'm learning React Native, and doing some apps.
+
+⚡ **Hobbies:** Play guitar🎸, take walks, exercise 🏋️‍♀️, read 📖 and spending time with my family.
+
+🌟 Let's connect:
+
+* 📷 IG: [@_mariamora](https://www.instagram.com/_mariamora/)
+* 🐦 Twitter: [@_mariamorav](https://twitter.com/_mariamorav)
+
+<!--
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamorav&hide=contribs,prs&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamorav&hide=html,css)](https://github.com/mariamorav/github-readme-stats) -->
+
+
 
 <!--
 **mariamorav/mariamorav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
