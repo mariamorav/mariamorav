@@ -9,7 +9,7 @@ Currently, I'm learning React Native, and doing some apps.
 
 🌟 Let's connect:
 
-* 📷 IG: [@_mariamora](https://www.instagram.com/_mariamora/)
+* 📷 IG: [@_mariamora](https://www.instagram.com/_mariamorav/)
 * 🐦 Twitter: [@_mariamorav](https://twitter.com/_mariamorav)
 
 <!--
