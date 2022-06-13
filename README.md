@@ -3,8 +3,6 @@
 I'm fullstack developer. I work at [Cuemby](https://cuemby.com/) 🐰 as Software Engineer.
 I love coding and spend my time learning new things 📚 
 
-Currently, I'm learning React Native, and doing some apps.
-
 ⚡ **Hobbies:** Play guitar🎸, take walks, exercise 🏋️‍♀️, read 📖 and spending time with my family.
 
 🌟 Let's connect:
