@@ -1,7 +1,7 @@
 ### Hi there, I'm Maria 👋
 
-I'm Systems Engineer. I work at [Famosos](https://famosos.com/) as Software Engineer.
-I love coding and spend my time learning new things 📚 
+I work at [Famosos](https://famosos.com/) as Software Engineer.
+I love coding, building useful products and spend my time learning new things 📚 
 
 ⚡ **Hobbies:** Play guitar🎸, hiking ⛰️, exercise 🏋️‍♀️, read 📖 and spending time with my family.
 
