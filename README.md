@@ -1,30 +1,27 @@
-### Hi there, I'm Maria 👋
+# Hi, I'm Maria 👋
 
-I work at [Famosos](https://famosos.com/) as Software Engineer.
-I love coding, building useful products and spend my time learning new things 📚 
+Software Engineer focused on backend (Go), building scalable systems.
 
-⚡ **Hobbies:** Play guitar🎸, hiking ⛰️, exercise 🏋️‍♀️, read 📖 and spending time with my family.
+Currently building tools inspired by outdoor and travel experiences.
 
-🌟 Let's connect:
-* 📷 IG: [@_mariamorav](https://www.instagram.com/_mariamorav/)
-* 🔗 LinkedIn: [mariamorav](https://www.linkedin.com/in/mariamorav/)
+---
 
-<!--
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamorav&hide=contribs,prs&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamorav&hide=html,css)](https://github.com/mariamorav/github-readme-stats) -->
+## 🚀 Projects
 
+* 🏔️ Trek Planning Engine *(WIP)*:
+  Tool to generate personalized trekking plans (gear, daily effort, essentials).
+  Built with Go + serverless architecture.
 
+---
 
-<!--
-**mariamorav/mariamorav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About me
 
-Here are some ideas to get you started:
+I combine engineering with real-world exploration —
+trekking, remote work, and building tools I actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect
+
+* [Travel Blog (My journey and outdoor experiences)](https://abigdreameradventurer.com)
+* [LinkedIn](https://www.linkedin.com/in/mariamorav/?locale=en)
