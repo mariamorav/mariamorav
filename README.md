@@ -4,22 +4,16 @@ Software Engineer focused on backend (Go), building scalable systems.
 
 Currently building tools inspired by outdoor and travel experiences.
 
----
-
 ## 🚀 Projects
 
 * 🏔️ Trek Planning Engine *(WIP)*:
   Tool to generate personalized trekking plans (gear, daily effort, essentials).
   Built with Go + serverless architecture.
 
----
-
 ## 🌍 About me
 
 I combine engineering with real-world exploration —
 trekking, remote work, and building tools I actually use.
-
----
 
 ## 📫 Let's Connect
 
